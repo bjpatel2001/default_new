@@ -1,0 +1,9 @@
+/vendor
+/public
+composer.phar
+composer.lock
+.DS_Store
+node_modules
+log
+/.idea
+/nbproject/private/
